@@ -13,4 +13,4 @@ http://127.0.0.1:8000/api/login/
 use the access to token to access all api's
 by giving 
 
-Authorization Bearer <token>
+Authorization Bearer token
